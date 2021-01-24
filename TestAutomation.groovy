@@ -1,9 +1,7 @@
 node {
-  stage('HelloWorld') {
-    echo 'Hello World'
-  }
-
-  stage('git clone') {
-    git clone "https://github.com/tkoochibotla/c-.git"
-  }
-}
+   stage('Preparation') { // for display purposes
+        // Get some code from a GitHub repository
+        git branch: 'main', url: 'https://github.com/tkoochibotla/c-.git'
+    }
+     }
+ 
