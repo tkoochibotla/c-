@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Koochibotla.Kumar\\Downloads\\steps\\CoreBetting\\CoreBetting\\CoreBetting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Koochibotla.Kumar\\Downloads\\steps\\CoreBetting\\CoreBetting\\CoreBetting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koochibotla.Kumar\\Downloads\\steps\\CoreBetting\\CoreBetting\\CoreBetting.csproj",
+        "projectName": "CoreBetting",
+        "projectPath": "C:\\Users\\Koochibotla.Kumar\\Downloads\\steps\\CoreBetting\\CoreBetting\\CoreBetting.csproj",
+        "packagesPath": "C:\\Users\\Koochibotla.Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koochibotla.Kumar\\Downloads\\steps\\CoreBetting\\CoreBetting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Koochibotla.Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.2.2, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.5.14, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.4.14, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

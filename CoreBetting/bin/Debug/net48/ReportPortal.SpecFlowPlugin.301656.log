@@ -1,0 +1,40 @@
+ReportPortalHooks Error: 0 : 17:20:16.5101072 : 2-domain-638838a6-CoreBetting.dll : System.Collections.Generic.KeyNotFoundException: Property 'Server:Url' not found in the configuration. Make sure you have configured it properly.
+   at ReportPortal.Shared.Configuration.Configuration.GetValue[T](String property)
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.Initialize()
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeTestRun()
+ReportPortalHooks Error: 0 : 17:20:16.5827321 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.5907098 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.5946997 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.5976905 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6006823 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.6046737 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6076648 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.6106576 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6126508 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.6156438 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6186363 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.6226245 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6256528 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:16.6286115 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:16.6316261 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:17.7867767 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
+ReportPortalHooks Error: 0 : 17:20:17.8024931 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.BeforeStep()
+ReportPortalHooks Error: 0 : 17:20:17.8054870 : 2-domain-638838a6-CoreBetting.dll : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterStep()
