@@ -1,4 +1,6 @@
-﻿using System.Configuration;
+using System;
+using System.Configuration;
+using System.IO;
 
 namespace CoreBetting.Report
 {
@@ -6,7 +8,10 @@ namespace CoreBetting.Report
     {
         public static string ReportingFolder()
         {
-             return @"C:\Users\Koochibotla.Kumar\Downloads\steps\CoreBetting";
+            string workingDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            string parent = Directory.GetParent(workingDirectory).Parent.FullName;
+            string parentDirectory = Directory.GetParent(parent).Parent.FullName;
+            return parentDirectory;
             //return ConfigurationManager.AppSettings["ReportingFolder"];
         }
     }
